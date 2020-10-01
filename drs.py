@@ -1,4 +1,4 @@
-print("welcome to the program")
+print("welcome to the program its great")
 import tkinter 
 import cv2 
 import PIL.Image, PIL.ImageTk 
